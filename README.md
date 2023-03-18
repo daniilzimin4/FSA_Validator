@@ -1,3 +1,4 @@
+# FSA Validator
 This is a program that validates a Finite State Automaton (FSA) description provided in a specific format. The program reads the input from a file called fsa.txt and outputs the results to a file called result.txt.
 
 The input file format should contain the following information:
